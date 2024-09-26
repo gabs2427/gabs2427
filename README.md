@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @gabs2427 or gabe :)
-- 👀 I’m interested in coding, networking and it support ...
-- 🌱 I’m currently learning coding ...
-- 💞️ I’m looking to collaborate on (nothing atm) ...
-- 📫 How to reach me gabrielsmith875@gmail.com ...
-
-<!---
-gabs2427/gabs2427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @gabs2427 or Gabe :)
+- 👀 I am currently a first-year Computer Science student at the University of Nottingham due to graduate in 2027.
+- 🌱 My current educational path is to prepare me for working with embedded systems!
+- My favourite languages are C and C#, but I also have experience with Python and Assembly.
+- My extracurricular interests are, going to the gym, rock climbing, combat sports, formula and robotics.
+- Feel free to have a look at my previous work completed as personal projects and also from prior education projects.
