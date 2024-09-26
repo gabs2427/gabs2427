@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabs2427 or Gabe :)
 - 👀 I am currently a first-year Computer Science student at the University of Nottingham due to graduate in 2027.
-- 🌱 My current educational path is to prepare me for working with embedded systems!
+- 🌱 My current educational path is to prepare me for working with embedded systems and I am actively looking for internships, whether it be summer or industry placements.
 - My favourite languages are C and C#, but I also have experience with Python and Assembly.
 - My extracurricular interests are, going to the gym, rock climbing, combat sports, formula and robotics.
 - Feel free to have a look at my previous work completed as personal projects and also from prior education projects.
